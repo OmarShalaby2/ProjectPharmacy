@@ -1,0 +1,34 @@
+[
+    {
+        "Id": 1,
+        "Category": "Haircare",
+        "Name": "shampoo dove for dry hair",
+        "Price": "350",
+        "Company": "dove",
+        "Brand": "shampoo",
+        "Item_form": "ASDAD",
+        "N_Items": "9",
+        "Use_For": "ADASD",
+        "Special_ing": "dsfasfasfsafasf",
+        "Item_volume": "300ml",
+        "Stock": "20",
+        "Description": "fsfasfasfasfaefa",
+        "PhotoIsPath": "..\/..\/photos\/productPhoto\/dove.png"
+    },
+    {
+        "Id": 2,
+        "Category": "Skincare",
+        "Name": "Vaseline Intensive Care Cocoa Glow Body Lotion",
+        "Price": "200",
+        "Company": "Vaseline",
+        "Brand": "Vaseline",
+        "Item_form": "ASDAD",
+        "N_Items": "10",
+        "Use_For": "ADASD",
+        "Special_ing": "sdasdasdasda",
+        "Item_volume": "400ml",
+        "Stock": "11",
+        "Description": "kdhqwkjdkjawdkwgdka",
+        "PhotoIsPath": "..\/..\/photos\/productPhoto\/1.png"
+    }
+]
